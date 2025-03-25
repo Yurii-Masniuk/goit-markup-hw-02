@@ -1,3 +1,7 @@
+body {
+    font-family: Roboto;
+    color: #2e2f42;
+}
 h1 {
     font-family: Roboto;
     font-weight: bold;
@@ -16,4 +20,41 @@ h3 {
     font-weight: medium;
     font-size: 20px;
     letter-spacing: 2%;
+}
+.order-service {
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    color: #ffffff;
+    background: #4d5ae5;
+    border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+}
+.order-service:hover,
+.order-service:focus {
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    color: #ffffff;
+    background: #404bbf;
+    border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+}
+button {
+    cursor: pointer;
+}
+.email {
+    color: #434455;
+}
+.email:hover,
+.email:focus {
+    color: #404bbf;
+}
+
+.tel {
+    color: #434455;
+}
+.tel:hover,
+.tel:focus {
+    color: #404bbf;
 }
