@@ -169,5 +169,10 @@ button {
 }
 
 .footer-logo-studio {
-    color: #2e2f42;
+    color: #f4f4fd;
+}
+.footer-logo-text {
+    line-height: 150%;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
 }
