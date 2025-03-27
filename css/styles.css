@@ -155,3 +155,6 @@ button {
     line-height: 150%;
     letter-spacing: 0.02em;
 }
+.footer-container {
+    background: #2e2f42;
+}
