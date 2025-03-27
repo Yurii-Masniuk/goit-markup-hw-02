@@ -37,6 +37,36 @@ body {
 .header-nav-list-item-anchor:focus {
     color: #404bbf;
 }
+.contacts {
+    font-style: normal;
+}
+.email {
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.email:hover,
+.email:focus {
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}
+.tel {
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.tel:hover,
+.tel:focus {
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}
+
 .title-section {
 
     background-color: #2e2f42;
@@ -76,21 +106,7 @@ body {
 button {
     cursor: pointer;
 }
-.email {
-    color: #434455;
-}
-.email:hover,
-.email:focus {
-    color: #404bbf;
-}
 
-.tel {
-    color: #434455;
-}
-.tel:hover,
-.tel:focus {
-    color: #404bbf;
-}
 .features-list {
     
 }
