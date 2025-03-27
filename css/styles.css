@@ -8,6 +8,11 @@ h1 {
     font-size: 56px;
     line-height: 60px;
     letter-spacing: 2%;
+    background-color: #2e2f42;
+    color: #ffffff;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02;
 }
 h2 {    
     font-weight: bold;
@@ -19,7 +24,7 @@ h3 {
     font-size: 20px;
     letter-spacing: 2%;
 }
-.order-service {
+.button-order-service {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     color: #ffffff;
     background: #4d5ae5;
@@ -27,9 +32,12 @@ h3 {
     padding: 16px 32px;
     width: 169px;
     height: 56px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04;
 }
-.order-service:hover,
-.order-service:focus {
+.button-order-service:hover,
+.button-order-service:focus {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     color: #ffffff;
     background: #404bbf;
