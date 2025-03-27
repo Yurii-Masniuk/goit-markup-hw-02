@@ -40,33 +40,32 @@ body {
 .contacts {
     font-style: normal;
 }
-.email {
+.contacts-email {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.email:hover,
-.email:focus {
+.contacts-email:hover,
+.contacts-email:focus {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #404bbf;
 }
-.tel {
+.contacts-tel {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.tel:hover,
-.tel:focus {
+.contacts-tel:hover,
+.contacts-tel:focus {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #404bbf;
 }
-
 .title-section {
 
     background-color: #2e2f42;
@@ -84,7 +83,6 @@ body {
     color: #ffffff;    
      
 }
-
 .button-order-service {
     
     color: #ffffff;
@@ -106,9 +104,8 @@ body {
 button {
     cursor: pointer;
 }
-
 .features-list {
-    
+  
 }
 .features-title {    
     font-weight: 700;
