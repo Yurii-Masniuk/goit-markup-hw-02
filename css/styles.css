@@ -40,27 +40,27 @@ body {
 .contacts {
     font-style: normal;
 }
-.contacts-email {
+.contacts-list-item-email {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.contacts-email:hover,
-.contacts-email:focus {
+.contacts-list-item-email:hover,
+.contacts-list-item-email:focus {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #404bbf;
 }
-.contacts-tel {
+.contacts-list-item-tel {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.contacts-tel:hover,
-.contacts-tel:focus {
+.contacts-list-item-tel:hover,
+.contacts-list-item-tel:focus {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
@@ -84,7 +84,6 @@ body {
      
 }
 .button-order-service {
-    
     color: #ffffff;
     background: #4d5ae5;
  
