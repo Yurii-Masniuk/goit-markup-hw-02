@@ -72,9 +72,6 @@ body {
    
     color: #ffffff;
 }
-.title-container {
-     
-}
 .title {    
     font-weight: bold;
     font-size: 56px;
@@ -102,9 +99,6 @@ body {
 }
 button {
     cursor: pointer;
-}
-.features-list {
-  
 }
 .features-title {    
     font-weight: 700;
