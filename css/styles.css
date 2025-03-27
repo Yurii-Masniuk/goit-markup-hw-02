@@ -3,16 +3,15 @@ body {
     color: #434455;
     background-color: #ffffff;
 }
-h1 {    
+.title {    
     font-weight: bold;
     font-size: 56px;
-    line-height: 60px;
-    letter-spacing: 2%;
-    background-color: #2e2f42;
-    color: #ffffff;
     line-height: 1.07;
-    text-align: center;
     letter-spacing: 0.02em;
+    background-color: #2e2f42;
+    color: #ffffff;    
+    text-align: center;
+    
 }
 h2 {    
     font-weight: bold;
@@ -29,9 +28,9 @@ h3 {
     color: #ffffff;
     background: #4d5ae5;
     border-radius: 4px;
-    padding: 16px 32px;
     width: 169px;
     height: 56px;
+    font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
@@ -42,7 +41,6 @@ h3 {
     color: #ffffff;
     background: #404bbf;
     border-radius: 4px;
-    padding: 16px 32px;
     width: 169px;
     height: 56px;
 }
