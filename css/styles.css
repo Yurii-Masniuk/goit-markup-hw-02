@@ -3,12 +3,23 @@ body {
     color: #434455;
     background-color: #ffffff;
 }
+.title-section {
+    background-color: #2e2f42;
+    padding: 188px 472px 292px 472px;
+    text-align: center;
+    color: #ffffff;
+}
+.title-container {
+    width: 1440px;
+    height: 600px;
+    margin: auto;
+    padding: 0 15px;
+}
 .title {    
     font-weight: bold;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    background-color: #2e2f42;
     color: #ffffff;    
     text-align: center;
     
