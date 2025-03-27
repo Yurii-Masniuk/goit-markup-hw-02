@@ -133,3 +133,12 @@ button {
     line-height: 150%;
     letter-spacing: 0.02em;
 }
+.portfolio-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
