@@ -30,6 +30,13 @@ body {
     letter-spacing: 0.02em;
     color: #404bbf;
 }
+.header-nav-list-item-anchor {
+    color: #2e2f42;
+}
+.header-nav-list-item-anchor:hover,
+.header-nav-list-item-anchor:focus {
+    color: #404bbf;
+}
 .title-section {
     width: 100%;
     height: 600px;
